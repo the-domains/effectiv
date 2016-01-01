@@ -2,12 +2,13 @@ name: EFFECTIV
 favicon: null
 layout_spectrum: 0.6811456249561161
 typography_spectrum: 0.6551235213410109
+title: EFFECTIV - Building Dreams Online
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-2885230-49
   facebook: null
   twitter: null
 opengraph:
