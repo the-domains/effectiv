@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-03T03:05:24.052Z'
-dateModified: '2016-01-03T03:05:09.946Z'
-title: EFFECTIV - Building Dreams Online
+datePublished: '2016-01-03T03:16:06.443Z'
+dateModified: '2016-01-03T03:15:09.890Z'
+title: EFFECTIV
 author: []
+sourcePath: _posts/2016-01-03-effectiv-building-dreams-online.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-effectiv-building-dreams-online.md
-published: true
 url: effectiv-building-dreams-online/index.html
 _type: Article
 
