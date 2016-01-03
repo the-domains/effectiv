@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[EFFECTIV - Building Dreams Online]]></title>
         <description><![CDATA[EFFECTIV - Building Dreams Online]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/effectiv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 03:05:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 03:16:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/effectiv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[EFFECTIV - Building Dreams Online]]></title>
-            <description><![CDATA[<article><h1>EFFECTIV - Building Dreams Online</h1><p>Hire a Web Applications Developer</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/164006a7-c923-4250-8a25-133d41ade905.jpg"></article>]]></description>
-            <link>undefinedeffectiv-building-dreams-online/index.html</link>
+            <title><![CDATA[EFFECTIV]]></title>
+            <description><![CDATA[<article><h1>EFFECTIV</h1><p>Hire a Web Applications Developer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8836469622f403826e5a3df2316ec711ab8d7879.jpg"></article>]]></description>
+            <link>https://thegrid.ai/effectiv/effectiv-building-dreams-online/index.html</link>
             <guid isPermaLink="false">18da444c-304a-4f7a-a28a-aed61dad5592</guid>
-            <pubDate>Sun, 03 Jan 2016 03:05:24 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 03:16:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
